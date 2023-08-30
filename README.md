@@ -29,11 +29,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/design/preview-desktop-solution-01.jpeg)
-![](./assets/design/preview-desktop-solution-02.jpeg)
-![](./assets/design/preview-desktop-solution-02.jpeg)
-<!-- ![](./assets/design/preview-mobile-solution.jpg) -->
-<img src="./assets/design/preview-mobile-solution.jpg" style="width:300px, height: 500px">
+![Preview desktop solution](./assets/design/preview-desktop-solution-01.jpeg)
+![Preview desktop solution](./assets/design/preview-desktop-solution-02.jpeg)
+![Preview desktop solution](./assets/design/preview-desktop-solution-02.jpeg)
+![Preview mobile solution](./assets/design/preview-mobile-solution.jpg)
+
 
 ### Links
 
