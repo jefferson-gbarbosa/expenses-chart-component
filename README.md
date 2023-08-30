@@ -32,7 +32,8 @@ Users should be able to:
 ![](./assets/design/preview-desktop-solution-01.jpeg)
 ![](./assets/design/preview-desktop-solution-02.jpeg)
 ![](./assets/design/preview-desktop-solution-02.jpeg)
-![](./assets/design/preview-mobile-solution.jpg)
+<!-- ![](./assets/design/preview-mobile-solution.jpg) -->
+<img src="./assets/design/preview-mobile-solution.jpg" style="width:300px, height: 500px">
 
 ### Links
 
